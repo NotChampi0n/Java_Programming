@@ -5,6 +5,14 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Programs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Abstract_Class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Inner_Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/KunalK" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Older_Sections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Static_and_Final" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
