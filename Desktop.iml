@@ -13,6 +13,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Programs/src/Methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programs/src/Older_Sections" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programs/src/Static_and_Final" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Exception_Handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Packages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Multithreading" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
