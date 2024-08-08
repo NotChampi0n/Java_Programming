@@ -16,6 +16,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Programs/src/Exception_Handling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programs/src/Packages" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programs/src/Multithreading" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/Java.lang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/JavaDoc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/LambdaExpressions" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
