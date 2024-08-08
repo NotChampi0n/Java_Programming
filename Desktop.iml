@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Programs/src/Java.lang" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programs/src/JavaDoc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Programs/src/LambdaExpressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programs/src/JavaIOStreams" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
